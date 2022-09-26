@@ -1,0 +1,13 @@
+#nav-bar {
+  position: sticky;
+  display: flex;
+
+  width: 90%;
+  margin: auto;
+}
+
+@media (max-width: 600px) {
+  body {
+    width: 100%;
+  }
+}
